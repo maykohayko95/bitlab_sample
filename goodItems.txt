@@ -1,0 +1,8 @@
+banana
+340
+cherry
+360
+grape
+380
+strawberry
+400
